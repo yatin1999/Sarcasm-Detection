@@ -1,9 +1,13 @@
-# Sarcasm Detection using Seniment Analysis
+# News_Headline_Sarcasm_Detection
+### About the Dataset
+News Headlines dataset for Sarcasm Detection is collected from two news websites.
+TheOnion aims at producing sarcastic versions of current events and all the news headlines are in Brief and News in Photos categories (which are sarcastic).The real (and non-sarcastic) news headlines are collected from HuffPost.
 
-### Starting with exploring and preprocessing of the data, leading to Data Modelling then using Hugging Face Transformation for sentiment analysis
+ 
 
 ### Objectives
 1. Data Exploration and Visualisation
 2. Data Pre-processing
-3. Ctreating Word Cloud
-4. Hugging Face - Sentiment Analysis
+3. Data Modeling
+4. Ctreating Word Cloud
+5. Hugging Face - Sentiment Analysis
